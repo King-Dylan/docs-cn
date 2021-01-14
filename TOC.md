@@ -33,8 +33,9 @@
     + [混合部署拓扑结构](/hybrid-deployment-topology.md)
   + 安装与启动
     + Linux 环境
-      + [使用 TiUP 部署（推荐）](/production-deployment-using-tiup.md)
-      + [使用 TiUP 离线部署（推荐）](/production-offline-deployment-using-tiup.md)
+      + [使用 TiUP 部署测试环境](/production-deployment-using-tiup.md)
+      + [使用 TiUP 部署生产环境（推荐）](/production-deployment-using-tiup.md)
+      + [使用 TiUP 离线部署生产环境（推荐）](/production-offline-deployment-using-tiup.md)
       + [在 Kubernetes 上部署](https://docs.pingcap.com/zh/tidb-in-kubernetes/stable)
   + [验证集群状态](/post-installation-check.md)
 + 数据迁移
